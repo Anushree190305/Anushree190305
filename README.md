@@ -1,5 +1,5 @@
 # 💫 About Me:
- ˙✧🎓📚✧˙Student at Rajarajeshwari college<br>·📖·♡ྀི I'm currently learning Python Full Stack
+ ˙✧🎓📚✧˙Student at Rajarajeshwari college<br>♡ྀི·📖·♡ྀི I'm currently learning Python Full Stack
 
 
 # 💻 Tech Stack:
