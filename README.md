@@ -1,64 +1,58 @@
+# Hi 👋, I'm Anushree N B
+
+### Python Full Stack Developer | GenAI Enthusiast | Lifelong Learner
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="60%">
+🎓 Student at Rajarajeshwari College of Engineering
 
-🎓 Student at **Rajarajeshwari College of Engineering**
+💼 Intern at KodNest Technologies
 
-💼 Intern at **KodNest Technologies**
+📖 Currently learning Python Full Stack Development with GenAI
 
-📖 Currently learning **Python Full Stack Development with GenAI**
-
-🎯 Passionate about building real-world projects
+🎯 Passionate about building real-world solutions
 
 🌱 Focused on improving problem-solving and development skills
 
 ✨ Curious mind, creative solutions, endless learning
 
-</td>
-
-<td width="40%">
-
-<img src="YOUR_IMAGE_LINK" width="350"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### Database
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
+<p>
 <a href="https://www.linkedin.com/in/anushreenb0319/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -66,12 +60,13 @@
 <a href="https://github.com/Anushree190305">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Anushree190305\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Anushree190305\&theme=tokyonight\&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anushree190305\&theme=tokyonight)
 
@@ -79,12 +74,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Anushree190305\&theme=tokyonight)
 
 ---
 
 > "Curious mind, creative solutions, endless learning."
-
 
