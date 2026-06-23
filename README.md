@@ -25,47 +25,54 @@
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+### Frontend Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anushreenb0319/)
+<p align="left">
+  <a href="(https://www.linkedin.com/in/anushreenb0319/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anushree190305)
+  <a href="https://github.com/Anushree190305">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
+
 
 ---
 
