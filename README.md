@@ -63,16 +63,9 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anushreenb0319/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushree_N_B-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anushreenb0319/)
 
-  <a href="https://github.com/Anushree190305">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
-
+[![GitHub](https://img.shields.io/badge/GitHub-Anushree190305-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anushree190305)
 
 
 ---
