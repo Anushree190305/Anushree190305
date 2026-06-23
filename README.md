@@ -1,72 +1,71 @@
-### 🎓 BE Student | Python Full Stack Developer 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;GenAI+Enthusiast;React+Developer;Always+Learning+New+Technologies" />
-</p>
-
----
-
 ## 💫 About Me
 
-˙✧🎓📚✧˙ Student at **Rajarajeshwari College of Engineering**
+<table>
+<tr>
+<td width="60%">
 
-♡ྀི·📖·♡ྀི Intern at **KodNest Technologies**
+🎓 Student at **Rajarajeshwari College of Engineering**
+
+💼 Intern at **KodNest Technologies**
 
 📖 Currently learning **Python Full Stack Development with GenAI**
 
-🌱 Interested in:
+🎯 Passionate about building real-world projects
 
-* Artificial Intelligence & Machine Learning
-* Full Stack Development
-* Cloud Computing
-* Problem Solving
+🌱 Focused on improving problem-solving and development skills
+
+✨ Curious mind, creative solutions, endless learning
+
+</td>
+
+<td width="40%">
+
+<img src="YOUR_IMAGE_LINK" width="350"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
 
-### Frontend Development
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools & Platforms
+### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-
-
-
+---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushree_N_B-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anushreenb0319/)
+<a href="https://www.linkedin.com/in/anushreenb0319/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anushree190305-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anushree190305)
-
+<a href="https://github.com/Anushree190305">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 ---
 
@@ -82,13 +81,10 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Anushree190305\&theme=tokyonight\&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Anushree190305\&theme=tokyonight)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Anushree190305\&icon=5\&color=12)
-
-### ✨ Quote
-
 > "Curious mind, creative solutions, endless learning."
+
 
