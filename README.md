@@ -1,6 +1,11 @@
-# Hi 👋, I'm Anushree N B
+<h1 align="center">🌷 Anushree N B</h1>
 
-### Python Full Stack Developer | GenAI Enthusiast | Lifelong Learner
+<h3 align="center">˙✧˖°🎓 ༘⋆°Learning • Building • Growing</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Learner;Web+Development+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
+
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
