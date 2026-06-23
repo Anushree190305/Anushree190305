@@ -64,14 +64,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/anushreenb0319/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <a href="https://www.linkedin.com/in/anushreenb0319/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/Anushree190305" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <a href="https://github.com/Anushree190305">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
